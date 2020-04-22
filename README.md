@@ -10,6 +10,7 @@ Part of the [clean-architecture-counter-starters](https://github.com/softspiders
 - counter-app
 - db
 - json-server
+- persistence
 - rest
 - starter
 
