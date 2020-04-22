@@ -1,5 +1,5 @@
 {
-  "name": "clean-architecture-counter-api",
+  "name": "counter-app-api-on-json-server",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
