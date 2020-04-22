@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# REST API server for Counter App starter on json-server
+# REST API server for *Counter App* starter on *json-server*
 
 Part of the [clean-architecture-counter-starters](https://github.com/softspiders/clean-architecture-counter-starters/blob/master/README.md)
 
