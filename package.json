@@ -7,7 +7,7 @@
     "start": "json-server --watch db.json --port 8080"
   },
   "dependencies": {
-    "json-server": "0.15.1"
+    "json-server": "^0.16.1"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
