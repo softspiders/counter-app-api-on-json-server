@@ -1,13 +1,16 @@
 {
-  "name": "counter-app-api-on-json-server",
+  "name": "json-server",
   "version": "1.0.0",
-  "private": true,
+  "description": "",
+  "main": "src/index.js",
   "scripts": {
-    "start": "json-server db.json"
+    "start": "json-server --watch db.json --port 8080"
   },
-  "author": "Alexander Lapygin",
-  "license": "MIT",
   "dependencies": {
     "json-server": "^0.16.1"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
 }

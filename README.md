@@ -1,10 +1,8 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# REST API server for *Counter App* starter on *json-server*
+# REST API Server for *Counter App* starters implemented on *json-server*
 
 Part of the [clean-architecture-counter-starters](https://github.com/softspiders/clean-architecture-counter-starters/blob/master/README.md)
-
-UNDER DEVELOPMENT
 
 ---
 
@@ -14,6 +12,7 @@ UNDER DEVELOPMENT
 - json-server
 - persistence
 - rest
+- server
 - starter
 
 ---
